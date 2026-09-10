@@ -1,3 +1,4 @@
 this is my new project which consists of library management system 
 add some more details about the project
 there should not be more than 2 actors
+for that we need to create a class diagram
