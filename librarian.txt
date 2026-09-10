@@ -1,1 +1,2 @@
 this is my new project which consists of library management system 
+add some more details about the project
